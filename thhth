@@ -1,0 +1,19 @@
+ @media screen and  (max-width:600px){
+   .firstpage{
+    
+      
+      margin-left: 3px;
+     
+    
+   }
+}
+
+@media screen and  (max-width:600px){
+   .firstpage1{
+    
+      font-size: 22px;
+      margin-left: 0px;
+     
+    
+   }
+}
