@@ -1,3 +1,26 @@
-.navii{
+ 
+ 
+ 
+ 
+ .naii{
+    color: red;
+ }
+ .navii{
     margin-left: 60%;
-}
+    
+ }
+ .navii a{
+    color: red;
+    font-weight: bold;
+    margin-right: 10%;
+    text-decoration: none;
+   
+    
+ }
+ .navii a:hover{
+    color: white;
+ }
+
+ 
+ 
+/* navbar over  */
