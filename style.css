@@ -248,4 +248,661 @@
     
    }
 }
+/* second page over */
+
+
+
+
+
+
+/* third page start */
+.sec3{
+   margin-left: 40%;
+}
+
+.skill-1{
+   display: flex;
+   margin-left: 10px;
+}
+.skill-1 .card-1:hover{
+   transform: scale(1.1);
+}
+.skill-1 .card-2:hover{
+   transform: scale(1.1);
+}
+.skill-1 .card-3:hover{
+   transform: scale(1.1);
+}
+.skill-1 .card-4:hover{
+   transform: scale(1.1);
+}
+.skill-1 .card-5:hover{
+   transform: scale(1.1);
+}
+
+
+
+
+.card-1{
+   width: 20%;
+   height: 210px;
+   border: 2px solid transparent;
+   margin-right: 20px;
+   background-image: url(pic/wp11725619\ \(1\).jpg);
+   background-size: cover;
+   background-position: center;
+   box-shadow: #F2003C 3px 5px  15px;;
+}
+
+.card-2{
+   width: 20%;
+   height: 210px;
+   border: 2px solid transparent;
+   margin-right: 20px;
+   background-image: url(pic/wp2742472.webp);
+   background-size: cover;
+   background-position: center;
+   box-shadow: #F2003C 3px 5px  15px;;
+}
+.card-3{
+   width: 20%;
+   height: 210px;
+   border: 2px solid transparent;
+   margin-right: 20px;
+   background-image: url(pic/360_F_463916074_wHb9rmeFouE5fsliy9viGmzEpDqnkvd3.jpg);
+   background-size: cover;
+   background-position: center;
+   box-shadow: #F2003C 3px 5px  15px;;
+}
+.card-4{
+   width: 20%;
+   height: 210px;
+   border: 2px solid transparent;
+   margin-right: 20px;
+   background-image: url(pic/HD-wallpaper-javascript-bts-coding-kod-kodlama-code-phone-lock-logo-locked.jpg);
+   background-size: cover;
+   background-position: center;
+   box-shadow: #F2003C 3px 5px  15px;;
+}
+.card-5{
+   width: 20%;
+   height: 210px;
+   border: 2px solid transparent;
+   margin-right: 20px;
+   background-image: url(pic/reactjs-javascript-programming-programming-language-hd-wallpaper-preview.jpg);
+   background-size: cover;
+   background-position: center;
+   box-shadow: #F2003C 3px 5px  15px;;
+}
+
+
+@media screen and  (max-width:600px){
+   .skill-1{
+     display: inline;
+     float: left;
+     margin-top: 15%;
+
+   }
+}
+@media screen and  (max-width:600px){
+   .card-1{
+     width: 400%;
+     height: 100px;
+     margin-bottom: 10px;
+     margin-left: 25%;
+     
+     
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .card-2{
+     width: 400%;
+     height: 100px;
+     margin-bottom: 10px;
+     margin-left: 25%;
+     
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .card-3{
+     width: 400%;
+     height: 100px;
+     margin-bottom: 10px;
+     margin-left: 25%;
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .card-4{
+     width: 400%;
+     height: 100px;
+     margin-bottom: 10px;
+     margin-left: 25%;
+     
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .card-5{
+     width: 400%;
+     height: 100px;
+     margin-bottom: 10px;
+     margin-left: 25%;
+     
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .sec3{
+   margin-left: 28%;
+   padding-top: 10%;
+     
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .frontend{
+   display: none;
+     
+    
+   }
+}
+
+
+.BACKEND{
+    padding-top: 50px;
+
+}
+.skill-2{
+   display: flex;
+   margin-left: 10px;
+}
+.card-6{
+   width: 20%;
+   height: 210px;
+   border: 2px solid transparent;
+   margin-right: 20px;
+   background-image: url(pic/PYTHON.webp);
+   background-size: cover;
+   background-position: center;
+   box-shadow: #F2003C 3px 5px  15px;;
+}
+.card-7{
+   width: 20%;
+   height: 210px;
+   border: 2px solid transparent;
+   margin-right: 20px;
+   background-image: url(pic/mysql.jpg);
+   background-size: cover;
+   background-position: center;
+   box-shadow: #F2003C 3px 5px  15px;;
+}
+.card-8{
+   width: 20%;
+   height: 210px;
+   border: 2px solid transparent;
+   
+   background-image: url(pic/django.jpg);
+   background-size: cover;
+   background-position: center;
+   box-shadow: #F2003C 3px 5px  15px;;
+}
+.card-9{
+   width: 20%;
+   height: 210px;
+   border: 2px solid transparent;
+   margin-right: 20px;
+   background-image: url(pic/aws.jpg);
+   background-size: cover;
+   background-position: center;
+   box-shadow: #F2003C 3px 5px  15px;;
+   margin-left: 10%;
+}
+.skill-2 .card-6:hover{
+   transform: scale(1.1);
+}
+.skill-2 .card-7:hover{
+   transform: scale(1.1);
+}
+.skill-2 .card-8:hover{
+   transform: scale(1.1);
+}
+.skill-2 .card-9:hover{
+   transform: scale(1.1);
+}
+
+
+@media screen and  (max-width:600px){
+   .skill-2{
+     display: inline;
+     float: right;
+     margin-right: 30%;
+     margin-top: 15%;
+     
+     
+   }
+}
+@media screen and  (max-width:600px){
+   .BACKEND{
+      float: right;
+      display: none;
+    
+     
+
+   }
+}
+
+@media screen and  (max-width:600px){
+   .card-6{
+     width: 400%;
+     height: 100px;
+     margin-bottom: 10px;
+     
+     
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .card-7{
+     width: 400%;
+     height: 100px;
+     margin-bottom: 10px;
+     margin-right: 10%;
+    
+     
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .card-8{
+     width: 400%;
+     height: 100px;
+     margin-bottom: 10px;
+    
+     
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .card-9{
+     width: 400%;
+     height: 100px;
+     margin-bottom: 10px;
+     padding-top: 100%;
+     margin-top: 500%;
+     
+     
+    
+   }
+}
+/* skill page over */
+
+
+
+/* project page starting */
+
+
+.project-cards{
+   display: flex;
+   column-gap: 50px;
+   margin-left: 10px;
+   margin-top: 30px;
+
+}
+.projectpage {
+   height: 1150px;
+}
+.projectpage1{
+   margin-left: 40%;
+}
+.project-card-1{
+border: 2px solid black;
+width: 22rem;
+height: 460px;
+background-color: black;
+box-shadow: #F2003C 3px 5px  15px;
+}
+.project-card-2{
+   border: 2px solid black;
+   width: 22rem;
+   height: 460px;
+   background-color: black;
+   box-shadow: #F2003C 3px 5px  15px;
+}
+.project-card-3{
+   border: 2px solid black;
+   width: 22rem;
+   height: 460px;
+   background-color: black;
+   box-shadow: #F2003C 3px 5px  15px;
+}
+.project-card-4{
+   border: 2px solid black;
+   width: 22rem;
+   height: 460px;
+   background-color: black;
+   box-shadow: #F2003C 3px 5px  15px;
+}
+.project-card-5{
+   border: 2px solid black;
+   width: 22rem;
+   height: 460px;
+   background-color: black;
+   box-shadow: #F2003C 3px 5px  15px;
+}
+.project-card-6{
+   border: 2px solid black;
+   width: 22rem;
+   height: 460px;
+   background-color: black;
+   box-shadow: #F2003C 3px 5px  15px;
+}
+.project-card-1:hover{
+   box-shadow: 0 0 5px #F2003C,0 0 25px #F2003C,0 0 50px #F2003C,0 0 100px #F2003C,0 0 200px #F2003C;
+}
+.project-card-2:hover{
+   box-shadow: 0 0 5px #F2003C,0 0 25px #F2003C,0 0 50px #F2003C,0 0 100px #F2003C,0 0 200px #F2003C;
+}
+.project-card-3:hover{
+   box-shadow: 0 0 5px #F2003C,0 0 25px #F2003C,0 0 50px #F2003C,0 0 100px #F2003C,0 0 200px #F2003C;
+}
+.project-card-4:hover{
+   box-shadow: 0 0 5px #F2003C,0 0 25px #F2003C,0 0 50px #F2003C,0 0 100px #F2003C,0 0 200px #F2003C;
+}
+.project-card-5:hover{
+   box-shadow: 0 0 5px #F2003C,0 0 25px #F2003C,0 0 50px #F2003C,0 0 100px #F2003C,0 0 200px #F2003C;
+}
+.project-card-6:hover{
+   box-shadow: 0 0 5px #F2003C,0 0 25px #F2003C,0 0 50px #F2003C,0 0 100px #F2003C,0 0 200px #F2003C;
+}
+.project-photo{
+   margin-top: 2%;
+   margin-right:2%;
+   margin-left:2%; 
+   width: 95%; 
+   height: 200px;
+
+}
+.projects-btn{
+   margin-left: 15px;
+   margin-right: 10px;
+   background-color: red;
+   color: white;
+   font-weight: bold;
+   text-decoration: none;
+   border: none;
+   border-radius: 5PX;
+}
+.projects-btn:hover{
+
+   box-shadow: 0 0 5px cyan,0 0 25px cyan,0 0 50px cyan,0 0 100px cyan,0 0 200px cyan;
+
+}
+.pro-1{
+   margin-left: 2%;
+   margin-top: 2%;
+}
+.pro-2{
+   margin-left: 2%;
+   margin-top: 2%;
+}
+
+
+@media screen and  (max-width:600px){
+   .projectpage{
+      height: 3270px;
+   }
+}
+
+@media screen and  (max-width:600px){
+   .projectpage1{
+      margin-left: 30%;
+   }
+}
+@media screen and  (max-width:600px){
+   .project-cards{
+    display: inline;
+    
+   }
+}
+@media screen and  (max-width:600px){
+   .project-card-1{
+      width: 95%;
+      height: 500px;
+      margin-bottom: 15px;
+      margin-left: 2%;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .project-card-2{
+      width: 95%;
+      height: 500px;
+      margin-bottom: 15px;
+      margin-left: 2%;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .project-card-3{
+      width: 95%;
+      height: 500px;
+      margin-bottom: 15px;
+      margin-left: 2%;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .project-card-4{
+      width: 95%;
+      height: 500px;
+      margin-bottom: 15px;
+      margin-left: 2%;
+   
+   }
+}
+
+@media screen and  (max-width:600px){
+   .project-card-5{
+      width: 95%;
+      height: 500px;
+      margin-bottom: 15px;
+      margin-left: 2%;
+   
+   }
+}
+
+@media screen and  (max-width:600px){
+   .project-card-6{
+      width: 95%;
+      height: 500px;
+      margin-bottom: 15px;
+      margin-left: 2%;
+   
+   }
+}
+/* project page is over */
+
+
+.contactadmin {
+   height: 700px;
+
+}
+
+.cont{
+   margin-left: 35%;
+}
+.contactpage{
+   display: flex;
+   column-gap: 60px;
+   margin-left: 5%;
+
+}
+.contact-1{
+   width: 40%;
+   height: 450px;
+   border: 2px solid transparent;
+   margin-top: 5%;
+}
+.contact-2{
+   width: 40%;
+   height: 400px;
+   border: 2px solid transparent;
+   margin-top: 5%;
+}
+.contact-text{
+   margin-top: 10%;
+   border-radius: 15px;
+   margin-left: 5%;
+   width: 60%;
+   border: none;
+}
+.contact-email{
+   margin-top: 5%;
+   border-radius: 15px;
+   margin-left: 5%;
+   width: 60%;
+   border: none;
+}
+.contact-number{
+   margin-top: 5%;
+   border-radius: 15px;
+   margin-left: 5%;
+   width: 60%;
+   border: none;
+}
+.contact-textarea{
+   margin-top: 5%;
+   border-radius: 15px;
+   margin-left: 5%;
+   width: 60%;
+   border: none;
+}
+.contact-button{
+   margin-top: 5%;
+   border-radius: 15px;
+   margin-left: 25%;
+   width: 20%;
+   border: none;
+}
+@media screen and  (max-width:600px){
+   .contactadmin{
+      height: 800px;
+   
+   }
+}
+
+
+
+
+@media screen and  (max-width:600px){
+   .contactpage{
+      display: inline;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .contact-1 h1 {
+     font-size: 20px;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .contact-text {
+     width: 150%;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .contact-email {
+     width: 150%;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .contact-number {
+     width: 150%;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .contact-textarea {
+     width: 150%;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .contact-button {
+     width: 80%;
+     margin-left: 40%;
+   
+   }
+}
+@media screen and  (max-width:600px){
+   .cont {
+    margin-left: 20%;
+   
+   }
+}
+/* contact page over */
+
+
+.foot{
+   width: 100%;
+   height: 50px;
+   border: 2px solid transparent;
+   background-color: lavender;
+   display: flex;
+   align-items: center;
+   justify-items: center;
+  
+}
+.foots{
+  margin-left: 40%;
+  padding-top: 10%;
+ 
+  
+}
+@media screen and  (max-width:600px){
+   .foots {
+     font-size: 10px;
+     margin-left: 0;
+     margin-top: 0px;
+   
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+         
 
